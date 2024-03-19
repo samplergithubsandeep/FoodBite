@@ -1,0 +1,182 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+html {
+    scroll-behavior: smooth;
+  }
+.food-logo
+{
+    width: 100px;
+    
+ 
+   
+}
+#navItem1 ,#navItem2 , #navItem3 , #navItem4 , #navItem5 {
+       font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       font-weight:300;
+       color: rgb(80, 78, 78);
+
+}
+
+#navItem1:hover {
+    color:black;
+}
+
+#navItem2:hover {
+    color:black;
+}
+
+#navItem3:hover {
+    color:black;
+}
+
+#navItem4:hover {
+    color:black;
+}
+
+#navItem5:hover {
+    color:black;
+}
+
+.banner-section-bg-container{
+    background-image: url("main-img.png");
+    background-image: cover;
+    height: 100vh;
+    background-size: cover;
+}
+
+.homeheading1{
+     color:white;
+}
+
+#homeheading2{
+   color: white;
+}
+
+.viewmenu{
+    color:white;
+    background-image: linear-gradient(#d0b200, #a58d00);
+    font-weight: 400;
+    border-width: 0;
+    border-radius: 5px;
+    width: 130px;
+    height: 45px;
+    font-family: Roboto;
+}
+
+
+#ordernow{
+    color:#d0b200;
+    font-weight: 400;
+    border-width: 1px;
+    border-radius: 5px;
+    width: 130px;
+    height: 45px;
+    background-color: transparent;
+    border-color:#d0b200;
+}
+
+#aboutusimg {
+    height:250px;
+    border-radius: 10px;
+    margin-right: 8px;
+}
+.wcuheading{
+            font-weight: bold;
+}
+.wcuheading span { color:#a58d00;
+                  font-weight: bold;
+}
+
+.wcuheading1{
+    font-weight: bold;
+}
+
+.wcuheading1 span { color:#a58d00;
+    font-weight: bold;
+}
+
+#imgofwcu2{
+    height:270px;
+    border-radius: 10px;
+}
+
+.menu-section{
+    background-color: #d0b200;
+}
+
+#ourmenu{
+    color: black;
+    font-weight: bold;
+   
+}
+
+.shadow {
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+#nonveg{
+    border-radius: 16px;
+    height:230px;
+}
+
+.offer {
+     height:10%;
+}
+
+.deliveryandpaymentsection{
+      color: black;
+      font-weight: bold;
+}
+
+.deliveryandpaymentsection span {
+    color: #a58d00;
+}
+
+.deliveryandpaymentpara{
+    font-weight: 300px;
+    font-size: 20px;
+}
+
+.custom-button{
+    background-color: #a58d00;
+    border-radius: 11px;
+    color: white;
+    font-size: 26px;
+    font-family: Roboto;
+}
+
+.followus {
+    background-color:#0d2436;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+   
+}
+
+.icons{ 
+    font-size: 40px;
+}
+
+.contactmail{
+   background-color: azure;
+    font-size: 12px;
+    border-radius: 9px;
+}
+.contactmail  a {
+  
+    font-weight: bold;
+}
+
+.mail-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color:#ecc782;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+
+  .mail-button:hover {
+    background-color: #f1bd5c;
+    color: white;
+    text-decoration: none;
+  }
